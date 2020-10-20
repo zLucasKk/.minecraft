@@ -1,0 +1,19 @@
+{
+  "authenticationDatabase" : {
+    "f24c9c007637438bb3556efa968dbadd" : {
+      "accessToken" : "null",
+      "profiles" : {
+        "12fb4d92258f4f9a8a5c6f07e5e509fb" : {
+          "displayName" : "ChooseYourNickNameHere"
+        }
+      },
+      "properties" : [],
+      "username" : "zLucasKkj@gmail.com"
+    }
+  },
+  "clientToken" : "null",
+  "launcherVersion" : {
+    "format" : 21,
+    "name" : "",
+    "profilesFormat" : 2
+  }
